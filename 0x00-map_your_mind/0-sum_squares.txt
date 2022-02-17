@@ -1,1 +1,6 @@
-
+calculate the sum of squares of given input of numbers
+Pseudocode:
+Let sum = 0
+(for loop) FOR i = 4 to 8
+               sum = sum + (i*i)
+           END.
