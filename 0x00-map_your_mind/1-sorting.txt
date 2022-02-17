@@ -1,0 +1,14 @@
+Pseudo code theat reads in three numbers and writes them all in sorted order:
+
+one = INPUT first number('First numer is: ')
+two = INPUT second number('Second number is: ')
+three = INPUT third number('Third number is: ')
+
+IF (one < two) $$ (one < three) :
+    PRINT("one")
+  ELSE IF (two > three):
+      PRINT("three")
+  ELSE IF (one > two):
+      PRINT("two")
+  ELSE:
+      PRINT("one","two","three")
